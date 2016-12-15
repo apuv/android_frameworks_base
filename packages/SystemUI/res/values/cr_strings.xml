@@ -88,4 +88,16 @@
     <string name="accessibility_quick_settings_heads_up_changed_off">Heads up turned off.</string>
     <string name="accessibility_quick_settings_heads_up_changed_on">Heads up turned on.</string>
     <string name="quick_settings_pie_label">Pie</string>
+    <!--Profiles Tile-->
+    <string name="quick_settings_profiles">System profiles</string>
+    <string name="quick_settings_profiles_off">Profiles disabled</string>
+   <!-- Content description of the profiles tile in quick settings when off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_profiles_off">Profiles off.</string>
+    <!-- Content description of the profiles tile in quick settings (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_profiles">Profile: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <!-- Announcement made when the profiles tile changes to off (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_profiles_changed_off">Profiles turned off.</string>
+    <!-- Announcement made when the profiles tile changes (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_quick_settings_profiles_changed">Profile changed to <xliff:g id="profile" example="Default">%s</xliff:g>.</string>    
+    
 </resources>
